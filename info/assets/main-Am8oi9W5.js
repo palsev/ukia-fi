@@ -1241,7 +1241,7 @@ function ha() {
         },
         src: "https://assets.oku.trade/xIcon.svg"
       }),
-      link: "https://twitter.com/okutrade"
+      link: "https://twitter.com/"
     }, {
       icon: e.jsx(z, {
         style: {
@@ -1268,7 +1268,6 @@ function ha() {
         },
         src: "https://assets.oku.trade/mirrorIcon.svg"
       }),
-      link: "https://mirror.xyz/oku.eth"
     }, {
       icon: e.jsx(z, {
         style: {
