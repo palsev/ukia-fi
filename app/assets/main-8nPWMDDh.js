@@ -2761,13 +2761,6 @@ function jc() {
 				label: et._({
 					id: "HGkvK+"
 				})
-			}), ((y = t.Analytics) == null ? void 0 : y.enabled) === "true" && t.Analytics.url && e.jsx(Mt, {
-				to: `${t.Analytics.url}/${n.internalName}/overview`,
-				reloadDocument: !0,
-				label: et._({
-					id: "ZlwDi6"
-				}),
-				target: "_blank"
 			})]
 		})]
 	})
